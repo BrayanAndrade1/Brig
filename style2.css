@@ -2,7 +2,7 @@ body{
 	margin: 0; padding: 0; min-height: 50vh; display: flex; align-items: center; justify-content: center;
     background: #0270ff8a;
     background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 196, 0, 0)), 
-    url('Brig.jpg');
+    url('Brigith.jpg');
 }
 .heart{
     height: 150px; width: 150px; background-color: red; position: relative; transform: rotate(45deg); 
